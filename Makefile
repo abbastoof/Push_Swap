@@ -6,14 +6,14 @@
 #    By: atoof <atoof@student.hive.fi>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/04/11 17:31:52 by atoof             #+#    #+#              #
-#    Updated: 2023/04/11 17:31:53 by atoof            ###   ########.fr        #
+#    Updated: 2023/04/11 17:54:55 by atoof            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = push_swap
 SRC = algorithm.c create_node.c ft_check.c helper_functions.c \
-	ft_init.c movements.c pop_push.c push_swap.c sort_three.c \
-	ft_atol.c sort_four.c sort_five.c sort.c
+	ft_init.c movements.c pop_push.c push_swap.c sort_three_to_five.c \
+	ft_atol.c sort.c
 OBJ = $(SRC:.c=.o)   # Object files
 HEADER = push_swap.h
 LIBFT = ./libft/libft.a
