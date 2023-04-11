@@ -6,9 +6,11 @@
 /*   By: atoof <atoof@student.hive.fi>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/11 17:32:52 by atoof             #+#    #+#             */
-/*   Updated: 2023/04/11 17:32:53 by atoof            ###   ########.fr       */
+/*   Updated: 2023/04/11 18:04:00 by atoof            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "push_swap.h"
 
 long	ft_atol(const char *str)
 {
