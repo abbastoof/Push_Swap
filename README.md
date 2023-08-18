@@ -1,49 +1,52 @@
-# Push Swap
+```markdown
+# 🔄 Push Swap
 
-Push Swap is a sorting project from the 42 school curriculum. The goal is to sort data on a stack, with a limited set of instructions, using the smallest possible number of actions.
+Push Swap is a sorting project from the ![42 school](https://img.shields.io/badge/42-School-blue) curriculum. The objective is to organize data on a stack, using a restrained set of instructions, and aiming to achieve this in the least number of actions possible.
 
-## Overview
+## 📋 Overview
 
-The project consists of two programs:
+The project is divided into two main programs:
 
-- `checker`, which receives as an argument the stack of integers that must be sorted. It will then read instructions on its standard input. Once read, checker will execute them and display `OK` if the instructions sort the stack, or `KO` if not.
-- `push_swap`, which calculates and displays on the standard output the smallest program using the Push Swap instruction language that sorts the integer arguments received.
+- `checker` 📥: Takes the stack of integers that need to be sorted as an argument. It then waits for instructions via its standard input. Upon reading, `checker` processes them and displays `OK` if the stack becomes sorted or `KO` otherwise.
+  
+- `push_swap` 📤: Computes and presents on the standard output the briefest set of instructions in the Push Swap instruction language that can sort the given integer arguments.
 
-## Project Files
+## 📁 Project Files
 
-- `algorithm.c`: Contains the main sorting algorithm for the project.
-- `create_node.c`: Functions for creating a node in the stack.
-- `ft_check.c`: Functions to check the validity of the inputs and arguments.
-- `ft_init.c`: Initialization functions.
-- `helper_functions.c`: Utility/helper functions used throughout the project.
-- `movements.c`: Functions corresponding to various operations that can be performed on the stack.
-- `pop_push.c`: Functions to pop off and push onto the stack.
-- `push_swap.c`: Main driver function.
-- `sort.c`: Additional sorting functions.
+- `algorithm.c` 🧮: Contains the primary sorting algorithm.
+- `create_node.c` 🛠: Functions to instantiate a node in the stack.
+- `ft_check.c` ✔: Validity check functions for inputs and arguments.
+- `ft_init.c` 🚀: Initialization functions.
+- `helper_functions.c` 🧩: Utility/helper functions utilized across the project.
+- `movements.c` ➡️: Functions corresponding to various stack operations.
+- `pop_push.c` ⬆️⬇️: Operations to pop and push onto the stack.
+- `push_swap.c` 🔄: The main driver function.
+- `sort.c` 🧲: Additional sorting functions.
 
-Headers:
-- `push_swap.h`: Contains all the necessary includes and prototypes for the project.
+Headers 📄:
+- `push_swap.h`: Centralizes the needed includes and function prototypes.
 
-## Build and Run
+## 🛠 Build and Run
 
-To compile the project, use the provided `Makefile`:
+To compile, use the included `Makefile`:
 
 ```bash
 make all
 ```
 
-This will produce the `push_swap` binary.
+This will yield the `push_swap` binary.
 
-Example of usage:
+Usage example:
 
 ```bash
 ./push_swap 3 2 1 4 5
 ```
 
-## Dependencies
+## 🔗 Dependencies
 
-The project makes use of the `libft` library, which is a custom C library developed during the 42 curriculum.
+The project leverages the `libft` library 📚, a personalized C library conceived during the 42 curriculum.
 
-## Contributing
+## 🤝 Contributing
 
-Please feel free to fork and create pull requests. All contributions are welcome!
+Feel free to fork, innovate, and submit pull requests. Every contribution is cherished! 💖
+```
