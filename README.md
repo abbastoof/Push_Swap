@@ -49,4 +49,3 @@ The project leverages the `libft` library 📚, a personalized C library conceiv
 ## 🤝 Contributing
 
 Feel free to fork, innovate, and submit pull requests. Every contribution is cherished! 💖
-```
