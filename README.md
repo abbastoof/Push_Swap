@@ -1,4 +1,3 @@
-```markdown
 # 🔄 Push Swap
 
 Push Swap is a sorting project from the ![42 school](https://img.shields.io/badge/42-School-blue) curriculum. The objective is to organize data on a stack, using a restrained set of instructions, and aiming to achieve this in the least number of actions possible.
