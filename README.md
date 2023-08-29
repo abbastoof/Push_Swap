@@ -100,7 +100,7 @@ If after executing those instructions, stack a is actually sorted and b is empty
 checker must display "OK" else "KO". If checker arguments are invalid it displays Error.
 
 The checker code can be found in the checker.c file in this repository.
-
+##
 The project is divided into two main programs:
 
 - `checker` 📥: Takes the stack of integers that need to be sorted as an argument. It then waits for instructions via its standard input. Upon reading, `checker` processes them and displays `OK` if the stack becomes sorted or `KO` otherwise.
