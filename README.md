@@ -149,7 +149,7 @@ Note that you do not have to read the books completly but you will find a lot of
 
 Books
 
-- [Algorithms](https://github.com/42YerevanProjects/42_Push_Swap/tree/master/resources)
+- [Algorithms](Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf)
 
 Links
 
