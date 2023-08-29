@@ -149,7 +149,7 @@ Note that you do not have to read the books completly but you will find a lot of
 
 Books
 
-- [Algorithms](Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf)
+- [Algorithms](https://github.com/abbastoof/Push_Swap/blob/a5c694bb5b3ce140c691288eda305da1fad39315/Grokking%20Algorithms_%20An%20illustrated%20guide%20for%20programmers%20and%20other%20curious%20people-Manning%20Publications%20(2016).pdf)
 
 Links
 
